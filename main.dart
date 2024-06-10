@@ -2,6 +2,8 @@ import 'bird.dart';
 import 'dog.dart';
 
 void main() {
-  Bird canary = Bird(4, 15.0);
-  Dog shepherdDog = Dog(6, 20);
+  // ignore: unused_local_variable
+  Bird canary = Bird();
+  // ignore: unused_local_variable
+  Dog shepherdDog = Dog();
 }
